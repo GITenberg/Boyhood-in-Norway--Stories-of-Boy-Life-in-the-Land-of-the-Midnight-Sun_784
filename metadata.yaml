@@ -1,0 +1,33 @@
+_repo: Boyhood-in-Norway--Stories-of-Boy-Life-in-the-Land-of-the-Midnight-Sun_784
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boyesen, Hjalmar Hjorth
+    alias: Boyesen, Hjalmar H.
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '170'
+    url: http://www.gutenberg.org/2009/agents/170
+description: The battle of the rafts.- Biceps Grimlund's Christmas vacation.- The
+  nixty's strain.- The wonder child.- "The sons of the vikings."- Paul Jespersen's
+  masquerade.- Lady Clare.- Bonnyboy.- The child of luck.- The bear that had a bank
+  account.
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Fiction'
+- GITenberg
+tableOfContents: The battle of the rafts -- Biceps Grimlund's Christmas vacation --
+  The nixy's strain -- The wonder child -- "The sons of the vikings" -- Paul Jespersen's
+  masquerade -- Lady Clare the story of a horse -- Bonnyboy -- The child of luck --
+  The bear that had a bank account.
+title: 'Boyhood in Norway: Stories of Boy-Life in the Land of the Midnight Sun'
+url: http://www.gutenberg.org/ebooks/784
